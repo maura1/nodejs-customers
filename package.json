@@ -1,0 +1,16 @@
+{
+    "name": "customers",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/app.js",
+    "scripts": {
+        "start": "node src/app.js"
+    },
+    "author": "Maura Kummer",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "uuid": "^9.0.0"
+    }
+}
